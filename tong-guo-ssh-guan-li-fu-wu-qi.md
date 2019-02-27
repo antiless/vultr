@@ -1,10 +1,10 @@
-#  通过SSH管理服务器
+# 通过SSH管理服务器
 
 最后更新于：2018-01-01
 
 在这篇文章中，我们演示开通VPS主机之后，获取需要的远程登入账户信息，利用SSH客户端，从而对Linux服务器进行管理的过程。
 
-** 1.前期准备工作  **
+ **1.前期准备工作** 
 
 请先参照 [ 《图文购买教程》 ](http://t.cn/EfJu0VX) ，购买合适的VPS，并获取到当前VPS信息。
 
@@ -16,7 +16,7 @@
 
 推荐使用XShell，请安装最新版本。XShell官网下载：
 
-http://www.netsarang.com/products/xsh_overview.html
+[http://www.netsarang.com/products/xsh\_overview.html](http://www.netsarang.com/products/xsh_overview.html)
 
 下载需要填个邮箱，然后它会把下载链接发到邮箱。按照要求安装成功后运行XShell，新建连接即可。
 
@@ -28,7 +28,7 @@ http://www.netsarang.com/products/xsh_overview.html
 
 这里我们可以登入进来。直接在这个界面输入命令安装系统或者安装其他工具都可以。
 
-** 2.Linux用户登录VPS  **
+ **2.Linux用户登录VPS** 
 
 打开终端，输入命令：
 
@@ -40,11 +40,11 @@ http://www.netsarang.com/products/xsh_overview.html
 
 接着按照提示输入密码即可。
 
-** 3.Mac用户登录VPS  **
+ **3.Mac用户登录VPS** 
 
 可以打开终端进行登录，方法同Linux用户；也可以安装SSH客户端，如shuttle等。
 
-** 4.手机登录VPS  **
+ **4.手机登录VPS** 
 
 下载一个SSH客户端，安卓用户可以安装JuiceSSH，iPhone用户可以安装iTerminal等等。
 

@@ -1,4 +1,4 @@
-#  Vultr教程
+# Vultr教程
 
 最后更新于：2017-12-31
 
@@ -8,7 +8,7 @@
 
 一起来看吧！
 
-[ [手把手]图文购买教程 ](http://t.cn/EfJu0VX)
+[ \[手把手\]图文购买教程 ](http://t.cn/EfJu0VX)
 
 [ 通过SSH管理服务器 ](http://t.cn/EfJuie7)
 
