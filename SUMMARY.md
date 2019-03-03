@@ -9,7 +9,7 @@
 * [3分钟快速安装宝塔面板](3-fen-zhong-kuai-su-an-zhuang-bao-ta-mian-ban.md)
 * [专属优惠码](zhuan-shu-you-hui-ma.md)
 * [Vultr整体介绍、方案选择](vultr-zhong-wen-wang.md)
-* [1分钟快速搭建XX](1-fen-zhong-kuai-su-da-jian-xx.md)
+* [1 分钟快速搭建 Shadowsocks](1-fen-zhong-kuai-su-da-jian-xx.md)
 * [\[手把手\] Vultr 图文购买教程](shou-ba-shou-tu-wen-gou-mai-jiao-cheng.md)
 * [安装TCP BBR加速教程](an-zhuang-tcp-bbr-jia-su-jiao-cheng.md)
 * [关于本站](guan-yu-ben-zhan.md)
