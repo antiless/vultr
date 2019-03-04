@@ -8,13 +8,13 @@
 
 一起来看吧！
 
-[ \[手把手\]图文购买教程 ](http://t.cn/EfJu0VX)
+[ \[手把手\]图文购买教程 ](https://vultr.gitbook.io/docs/shou-ba-shou-tu-wen-gou-mai-jiao-cheng)
 
-[ 通过SSH管理服务器 ](http://t.cn/EfJuie7)
+[ 通过SSH管理服务器 ](https://vultr.gitbook.io/docs/tong-guo-ssh-guan-li-fu-wu-qi)
 
-[ 1分钟快速搭建55 ](http://t.cn/EfJdrDN)
+[ 1分钟快速搭建55 ](https://vultr.gitbook.io/docs/1-fen-zhong-kuai-su-da-jian-xx)
 
-[ 3分钟快速安装宝塔面板 ](http://t.cn/EfJBit2)
+[ 3分钟快速安装宝塔面板 ](https://vultr.gitbook.io/docs/3-fen-zhong-kuai-su-an-zhuang-bao-ta-mian-ban)
 
-[ 5分钟快速搭建WordPress博客 ](http://t.cn/EfJgY9K)
+[ 5分钟快速搭建WordPress博客 ](https://vultr.gitbook.io/docs/5-fen-zhong-kuai-su-da-jian-wordpress-bo-ke)
 

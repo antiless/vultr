@@ -6,7 +6,7 @@
 
  **1.前期准备工作** 
 
-请先参照 [ 《图文购买教程》 ](http://t.cn/EfJu0VX) ，购买合适的VPS，并获取到当前VPS信息。
+请先参照 [ 《图文购买教程》 ](https://vultr.gitbook.io/docs/shou-ba-shou-tu-wen-gou-mai-jiao-cheng) ，购买合适的VPS，并获取到当前VPS信息。
 
 ![](https://www.vultrgo.com/wp-content/uploads/2017/12/vultr_ssh_1.jpg)
 
